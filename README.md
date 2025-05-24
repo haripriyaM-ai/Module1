@@ -68,11 +68,11 @@ Thus, the program is verified successfully.
 # EXP 3: Datatypes-Character Literal in Python
 
 ##  Aim
-To write a Python program that prints the characters `'V'` and `'C'` using character literals.
+To write a Python program that prints the characters `'V'` and `'c'` using character literals.
 
 ## Algorithm
 1. Print the character `'V'`.
-2. Print the character `'C'`.
+2. Print the character `'c'`.
 
 ## Program
 ```
